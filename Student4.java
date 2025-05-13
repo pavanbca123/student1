@@ -1,4 +1,4 @@
-public class Course {
+ class Course {
     private String courseName;
     private int courseCode;
 
@@ -17,7 +17,7 @@ public class Course {
 }
 
 // Student.java
-public class Student {
+ class Student {
     private String name;
     private String program;
     private String semester;
